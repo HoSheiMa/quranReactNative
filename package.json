@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.8.3",
-    "react-native": "0.59.4",
+    "react-native": "0.62.3",
     "react-native-chart-kit": "^2.4.0",
     "react-native-elements": "^1.1.0",
     "react-native-fetch-blob": "^0.10.8",
